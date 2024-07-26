@@ -37,7 +37,7 @@ The dataset contains 7,613 tweets that have been manually classified. The featur
 - Produced a balanced performance between disaster and non-disaster tweet classification
 
 ## Files in the Repository
-- `nlp-disaster-tweets.ipynb.ipynb`: Jupyter notebook containing all the code and analysis
+- `nlp-disaster-tweets.ipynb`: Jupyter notebook containing all the code and analysis
 - `Kaggle-score`: Kaggle competition score
 - `README.md`: This file, providing an overview of the project
 
